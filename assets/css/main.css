@@ -1071,7 +1071,7 @@ section,
   }
 
   .hero p {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 18px;
     margin-bottom: 30px;
   }
@@ -1537,7 +1537,6 @@ font-size: 20px;
   -webkit-text-fill-color: transparent;
   background-clip: text;
   color: transparent;
-  text-shadow: 1px 1px 41px rgba(179, 159, 215, 0.45);
 }
 
 
