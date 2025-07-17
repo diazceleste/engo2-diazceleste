@@ -1830,7 +1830,7 @@ font-size: 20px;
   height: 100vh;
   overflow: hidden;
   text-align: center;
-  opacity: 50%;
+  opacity: 90%;
 }
 
 .hero-video2 video {
@@ -1922,6 +1922,10 @@ font-size: 20px;
 
 .textopaso1 h3 {
   color: #ffffff;
+}
+
+.paso paso-2 textopaso1 {
+margin-left: 10%;
 }
 
 
