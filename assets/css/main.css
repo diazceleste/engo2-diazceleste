@@ -587,6 +587,7 @@ h4 {
 
 .links-footer {
   text-align: left;
+  padding-left: 12%;
 }
 
 .links-footer ul li {
@@ -737,6 +738,11 @@ h4 {
     text-align: center !important;
   }
 
+  .links-footer {
+  text-align: left;
+  padding-left: 0%;
+}
+  
   /* Ajustar párrafos de contacto */
   .footer-contact p {
     text-align: center !important;
