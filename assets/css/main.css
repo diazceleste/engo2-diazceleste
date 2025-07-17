@@ -178,8 +178,8 @@ h6 {
 
 .header .logo img {
   max-height: 36px;
-  margin-right: 8px;
-  margin-left: 21px;
+  margin-right: 6px;
+  margin-left: 10px;
 }
 
 .header .logo h1 {
@@ -399,7 +399,7 @@ background: rgba(41, 0, 76, 0.45);
     color: var(--nav-color);
     font-size: 28px;
     line-height: 0;
-    margin-right: 10px;
+    margin-right: 0px;
     cursor: pointer;
     transition: color 0.3s;
   }
