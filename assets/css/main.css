@@ -1756,6 +1756,12 @@ font-size: 20px;
   .numero-icon {
     margin-bottom: 10px;
   }
+  .feature-content p {
+  font-size: 13px; /* blanco puro */
+}
+  .feature-content h4 {
+  font-size: 13px; /* blanco puro */
+}
 }
 
 .phone-mockup {
