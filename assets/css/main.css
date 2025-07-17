@@ -207,8 +207,11 @@ h6 {
 }
 
 @media (max-width: 1200px) {
+  .header {
+  padding: 11px 0;}
   .header .logo {
     order: 1;
+    width: 90px;
   }
 
   .header .btn-getstarted {
@@ -535,7 +538,7 @@ background: rgba(41, 0, 76, 0.45);
 }
 
 .footer-about p {
-  font-size: 14px;
+  font-size: 12px;
   font-family: 'Open sans';
   margin-bottom: 50px;
 }
@@ -746,6 +749,7 @@ h4 {
   /* Ajustar párrafos de contacto */
   .footer-contact p {
     text-align: center !important;
+    font-size: 13px;
   }
 
   /* Ajustes inferiores */
@@ -757,11 +761,12 @@ h4 {
     padding: 0;
     margin: 0 auto;
     display: inline-block;
-    text-align: center; /* <<--- agrega esto */
+    text-align: center; 
+    font-size: 13px;
   }
 
   .footer-contact ul li {
-    text-align: center; /* <<--- y esto también */
+    text-align: center; 
   }
 }
 
